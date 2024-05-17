@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Symbols:wght@100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Allan:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: rgba(45, 68, 128, 1);
+}
+
+body{
+    width: 288px;
+    height: 503px;
+    top: 150px;
+    left: 576px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    background-color: white;
+    margin: 2rem;
+    font-family: "Noto Sans Symbols", sans-serif;
+    max-width: 400px;
+    border-radius: 2Rem;
+}
+
+h2{
+    text-transform: uppercase;
+    font-family: Noto Sans Symbols;
+    font-size: 36px;
+    font-weight: 300;
+    line-height: 36px;
+    padding: 2rem;
+    text-align: center;
+    padding-top: 40px;
+    
+}
+
+/* ul li:nth-child(-n+2) {
+    list-style: square url(../Flex/15a2e32e597a23079985915169e6618c.svg);
+} */
+
+ul li:nth-child(-n+2) {
+    list-style-type: none;
+    background-image: url("../Flex/15a2e32e597a23079985915169e6618c.png");
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    margin-left:50px;
+    background-position: left center; 
+    padding-left: 40px;
+}
+
+ul li:nth-child(n+3) {
+    list-style-type: none;
+    background-image: url("../Flex/93f422b09689dca0171af2dcc6d39091.png"); 
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+    margin-left: 50px;
+    background-position: left center; 
+    padding-left: 40px;
+}
+
+li a,
+li a :visited{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: black;
+    font-family: Noto Sans Symbols;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 32.8px;
+    letter-spacing: 0.06em;
+}
+
+hr{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    align-content: center;
+    border: 1px solid black;
+}
+   
+h3{
+    font-family: Noto Sans Symbols;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0.13em;
+    color: rgba(41, 41, 41, 1);
+    text-transform: uppercase;
+    margin: 1rem;
+    text-align: center;
+}
+
+h4{
+    font-family: Allan;
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 36px;
+    color: rgba(45, 68, 128, 1);
+    margin: 1rem;
+    transform: translate(30px,0px);
+    text-align: center;
+}
+
+p{
+    display: block;
+    position: absolute;
+    top: 500px;
+    left: 77px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    background-color: rgba(255, 188, 15, 1);
+    border-radius: 3Rem;
+    width: 200px;
+    color: rgba(37, 56, 104, 1);
+    text-transform: uppercase;
+    text-align: center;
+}

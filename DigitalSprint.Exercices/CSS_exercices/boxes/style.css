@@ -1,0 +1,16 @@
+
+body{
+    padding: 10%;
+    
+}
+p{
+    background-color: aqua;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    margin: 2rem;
+    display: flex; /* or inline-flex */
+    align-items: center; 
+    justify-content: center;
+
+}
