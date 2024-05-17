@@ -1,0 +1,98 @@
+<font size=24px>
+
+#### Table des matières
+
+
+- [Définition](#lagyroquoi?)
+- [Origines](#depuisquand?)
+- [Les marques](#XXIe)
+- [En savoir plus](#pourensavoirplus)
+
+</font>
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+<font color="#B87333" font-family="Tahoma, sans-serif">
+
+# Ma gyroroue et moi
+
+</font>
+
+<font color="#B87333">
+
+### La gyro***quoi*** ?
+
+</font>
+
+*[EUC]: Electric UniCycle ou monocycle électrique en français
+La gyroroue, aussi appellée EUC est un *véhicule électrique personnel autobalaçant* qui ne dispose que d'une seule roue.
+Le pilote contrôle la vitesse en se penchant vers l'avant ou vers l'arrière, et dirige en tournant ou en inclinant l'unité d'un côté à l'autre.
+Le mécanisme d'auto-équilibrage utilise des **accéléromètres**, des **gyroscopes** et un **magnétomètre**.
+
+<font color="#B87333">
+
+### Depuis quand ?
+
+</font>
+
+Le tout premier brevet de gyroroue déposé date de ***1869***, quand Richard O. Hemming proposa un modèle à propulsion manuelle, qui offrait déjà une certaine forme de stabilité et d'auto-équilibrage du aux forces gyroscopiques mises en place.
+
+![Hemmings](https://m.media-amazon.com/images/I/71B4OyxanRL._AC_SY200_QL15_.jpg)
+
+> It consists in rotating a traction-wheel, by means of a traversing-wheel bearing on its inner surface, and revolved by the operator within the rim of the wheel.  
+RICHARD O HEMMINGS.
+
+<font color="#B87333">
+
+### XXIe siècle: mondialisation et accessibilité
+
+</font>
+
+Ce n'est qu'à partir de 2010 que l'on commence à voir apparaître ces étranges engins futuristes dans nos villes.
+Le marché de la gyroroue, en perpétuelle expansion, se résume toutefois à une poignée de constructeurs chinois qui se partagent les parts du marché.
+On y retrouve principalement les marques suivantes :
+
+<img src="https://e-xploredevon.co.uk/wp-content/uploads/2021/01/Inmotion-Logo-1.png" width="100">
+<img src="https://www.kingsong-europe.com/modules//smartblog/views/img/13-single-default.jpg" width="100">
+<img src="https://begode-europe.com/coagroac/2020/05/BEGODE-logo-2.jpg" width="100">
+<img src="https://cdn.shopify.com/s/files/1/0325/1716/1004/files/Leaparkim_logo_480x480.jpeg?v=1594195616" width="100">
+
+### Une petite vidéo vaut mieux qu'une longue ligne de code
+[![WrongWay video short](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJq9n1VnV6SoAQJpAlbbnMauuNyIKI1Qh7Iw)](https://www.youtube.com/shorts/DAOj_mrtMD0)
+
+<font color="#B87333">
+
+### Avantages et inconvénients
+
+</font>
+
+#### Avantages
+- C'est ***FUN !!!***
+    >*"Quand je ride ma wheel, je me sens comme Goku sur son nuage. J'ai 8 ans tous les jours."* Un chauve, interrogé ce matin.
+- Rapide
+- Facile à apprendre
+- Autonomie élevée
+    >Les batteries EUC peuvent atteindre presque 4000W, à titre de comparaison, une trotinette électrique fournit environ 350W
+
+#### Inconvénients
+- ATGATT !
+    >Emprunté au monde de la moto, l'expression ATGATT signifie *All the gear all the time.*  
+    >Il est fortement recommandé de s'équiper de protections adéquates. Pas d'exceptions à cette règle.
+- La pluie, le vent, la météo. 🇧🇪
+- Législation très floue en Belgique.
+
+Voici exactement les mêmes infos mais sous forme de tableau afin de respecter l'énoncé de l'exercice.
+
+| Avantages | Inconvénients |
+|-----------|---------------|
+| FUN       | PROTECTIONS   |
+| RAPIDE    | METEO         |
+| FACILE    | POLICE !!!    |
+
+<font color="#B87333">
+
+### Pour en savoir plus
+
+</font>
+
+Pour découvrir plus en profondeur le monde EUC, je ne peux que trop vous recommander la chaine YouTube [Wrong Way!](https://www.youtube.com/@mr_wrongway)
